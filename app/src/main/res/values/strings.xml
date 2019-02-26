@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dicee-Kotlin</string>
+    <string name="dicee_logo">Logo</string>
+    <string name="roll_button_title">ROLL</string>
+    <string name="left_dice">Dice 1</string>
+    <string name="right_dice">Dice 2</string>
+</resources>
